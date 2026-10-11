@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/6281380674078"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:email-anda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -39,19 +39,15 @@
 
 ## 🚀 Featured Projects
 
+### 🍕 [PIZZAS.ID - Digital Branding & Merchant Operations](https://github.com/username-anda/repo-pizzas-id)
+- **Role:** Founder, UI/UX Designer & Full-Stack Web Developer
+- **Tech Stack:** Web Technologies, Digital Branding, BCA Merchant Integration
+- **Deskripsi:** Bisnis operasional kuliner yang dikembangkan secara mandiri, mencakup perancangan identitas brand, logo, menu, materi promosi visual, hingga integrasi sistem pembayaran digital/merchant Bank Central Asia (BCA).
+
 ### 📱 [Facial Detection Automated Attendance System](https://github.com/username-anda/repo-absensi)
 - **Role:** Full-Stack Developer
 - **Tech Stack:** Python, Web-based Backend, Biometric Extraction Algorithms
 - **Deskripsi:** Aplikasi absensi pegawai otomatis memanfaatkan fitur pendeteksi wajah (*facial detection*) dan ekstraksi biometrik untuk presensi yang lebih presisi dan efisien.
-
-### 🍽️ [Web-Based Restaurant Ordering System](https://github.com/username-anda/repo-restoran)
-- **Role:** Web Developer & Database Architect
-- **Tech Stack:** PHP, MySQL, JavaScript, HTML/CSS
-- **Deskripsi:** Sistem pemesanan restoran berbasis web yang mencakup perancangan basis data, logika sistem backend, hingga tampilan UI antarmuka pesanan.
-
-### 🍕 [PIZZAS.ID - Digital Branding & Merchant Tech](https://github.com/username-anda/repo-pizzas-id)
-- **Role:** UI/UX Designer & Operations Lead
-- **Deskripsi:** Pengelolaan aset visual brand, perancangan menu, logo, serta integrasi sistem pembayaran/merchant akun Bank Central Asia (BCA).
 
 ---
 
