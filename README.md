@@ -42,7 +42,7 @@
 ### 🍕 [PIZZAS.ID - Digital Branding & Merchant Operations](https://github.com/username-anda/repo-pizzas-id)
 - **Role:** Founder, UI/UX Designer & Full-Stack Web Developer
 - **Tech Stack:** Web Technologies, Digital Branding, BCA Merchant Integration
-- **Deskripsi:** Bisnis operasional kuliner yang dikembangkan secara mandiri, mencakup perancangan identitas brand, logo, menu, materi promosi visual, hingga integrasi sistem pembayaran digital/merchant Bank Central Asia (BCA).
+- **Deskripsi:** Bisnis operasional kuliner yang dikembangkan secara mandiri, mencakup perancangan identitas brand, logo, menu, materi promosi visual, hingga integrasi sistem pembayaran digital maupun pembayaran non tunai dengan sistem _self service ordering_.
 
 ### 📱 [Facial Detection Automated Attendance System](https://github.com/username-anda/repo-absensi)
 - **Role:** Full-Stack Developer
