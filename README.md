@@ -14,8 +14,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Lulusan **Sarjana Komputer (S.Kom)** dari **Universitas Gunadarma**, jurusan Informatika.
-- 💡 Berfokus pada pengembangan **Web Application (Full-Stack)** dan perancangan **UI/UX Design**.
-- 🛠️ Memiliki pengalaman membangun sistem berbasis web, integrasi database, hingga implementasi fitur biometrik (*Facial Detection & Recognition*).
+- 💡 Berfokus pada pengembangan **Web Application (Full-Stack)**, **AI Integration**, dan perancangan **UI/UX Design**.
+- 🛠️ Memiliki pengalaman membangun sistem berbasis web, integrasi database, implementasi AI & AI Agent, hingga biometrik (*Facial Detection & Recognition*).
 - 🎨 Berpengalaman membuat *design system*, logo brand, menu, hingga materi promosi visual.
 - 🔄 Biasa mengimplementasikan metodologi kerja **Rapid Application Development (RAD)** dan **Scrum** dalam manajemen proyek.
 
@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Web Development & Database
+### 💻 Web Development, AI & Database
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,23 +39,50 @@
 
 ## 🚀 Featured Projects
 
-### 🍕 [PIZZAS.ID - Digital Branding & Merchant Operations](https://github.com/username-anda/repo-pizzas-id)
+### 🍕 [PIZZAS.ID - Digital Branding & Merchant Operations](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/pizzas-id)
 - **Role:** Founder, UI/UX Designer & Full-Stack Web Developer
 - **Tech Stack:** Web Technologies, Digital Branding, BCA Merchant Integration
-- **Deskripsi:** Bisnis operasional kuliner yang dikembangkan secara mandiri, mencakup perancangan identitas brand, logo, menu, materi promosi visual, hingga integrasi sistem pembayaran digital maupun pembayaran non tunai dengan sistem _self service ordering_.
+- **Deskripsi:** Bisnis operasional kuliner yang dikembangkan secara mandiri, mencakup perancangan identitas brand, logo, menu, materi promosi visual, hingga integrasi sistem pembayaran digital maupun pembayaran non-tunai dengan sistem *self-service ordering*.
 
-### 📱 [Facial Detection Automated Attendance System](https://github.com/username-anda/repo-absensi)
+### 📱 [Facial Detection Automated Attendance System](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/facial-detection-automated-attendance-system)
 - **Role:** Full-Stack Developer
 - **Tech Stack:** Python, Web-based Backend, Biometric Extraction Algorithms
 - **Deskripsi:** Aplikasi absensi pegawai otomatis memanfaatkan fitur pendeteksi wajah (*facial detection*) dan ekstraksi biometrik untuk presensi yang lebih presisi dan efisien.
+
+### 🩺 [Health Pattern Detection Using AI](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/health-pattern-detection-using-ai)
+- **Role:** AI & Web Developer
+- **Tech Stack:** Python, Machine Learning / AI, Web Backend
+- **Deskripsi:** Sistem deteksi pola kesehatan berbasis *Artificial Intelligence* untuk menganalisis dan mendeteksi tren atau kecenderungan indikator kesehatan pengguna secara cerdas.
+
+### 🤖 [AI Agent with Gemini](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/ai-agent-with-gemini)
+- **Role:** AI Developer & Integration Specialist
+- **Tech Stack:** Python, Google Gemini API, Prompt Engineering
+- **Deskripsi:** Pengembangan *AI Agent* interaktif berbasis Google Gemini API yang mampu memproses tugas-tugas cerdas, otomatisasi alur kerja, dan memberikan respons adaptif.
+
+---
+
+## 📜 Certificates & Training
+
+| Date | Certification / Training Course |
+| :--- | :--- |
+| **18 July 2026** | Aptitude Test[cite: 6] |
+| **25 May 2026** | Advanced Database Systems[cite: 6] |
+| **22 September 2025** | Fundamentals of Database Systems[cite: 6] |
+| **18 August 2025** | GO-LANG FOR INTERMEDIATE[cite: 6] |
+| **24 February 2025** | ORACLE FOR INTERMEDIATE[cite: 6] |
+| **24 January 2025** | Introduction to wireless LAN installation[cite: 6] |
+| **19 August 2024** | GO-LANG FOR BEGINNER[cite: 6] |
+| **19 February 2024** | ORACLE FOR BEGINNER[cite: 6] |
+| **21 August 2023** | FUNDAMENTAL WEB PROGRAMMING[cite: 6] |
+| **20 February 2023** | FUNDAMENTAL DBMS[cite: 6] |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME-ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-ANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Fathursite&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Fathursite&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
