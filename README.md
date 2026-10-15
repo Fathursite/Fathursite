@@ -65,24 +65,24 @@
 
 | Date | Certification / Training Course |
 | :--- | :--- |
-| **18 July 2026** | Aptitude Test[cite: 6] |
-| **25 May 2026** | Advanced Database Systems[cite: 6] |
-| **22 September 2025** | Fundamentals of Database Systems[cite: 6] |
-| **18 August 2025** | GO-LANG FOR INTERMEDIATE[cite: 6] |
-| **24 February 2025** | ORACLE FOR INTERMEDIATE[cite: 6] |
-| **24 January 2025** | Introduction to wireless LAN installation[cite: 6] |
-| **19 August 2024** | GO-LANG FOR BEGINNER[cite: 6] |
-| **19 February 2024** | ORACLE FOR BEGINNER[cite: 6] |
-| **21 August 2023** | FUNDAMENTAL WEB PROGRAMMING[cite: 6] |
-| **20 February 2023** | FUNDAMENTAL DBMS[cite: 6] |
+| **18 July 2026** | Aptitude Test |
+| **25 May 2026** | Advanced Database Systems |
+| **22 September 2025** | Fundamentals of Database Systems |
+| **18 August 2025** | GO-LANG FOR INTERMEDIATE |
+| **24 February 2025** | ORACLE FOR INTERMEDIATE |
+| **24 January 2025** | Introduction to wireless LAN installation |
+| **19 August 2024** | GO-LANG FOR BEGINNER |
+| **19 February 2024** | ORACLE FOR BEGINNER |
+| **21 August 2023** | FUNDAMENTAL WEB PROGRAMMING |
+| **20 February 2023** | FUNDAMENTAL DBMS |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Fathursite&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Fathursite&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathursite&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathursite&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
