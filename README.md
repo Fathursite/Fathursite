@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍕 [PIZZAS.ID - Digital Branding & Merchant Operations](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/pizzas-id)
+### 🍕 [PIZZAS.ID - Digital Branding & Merchant Operations](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/PIZZAS.ID%20-%20Digital%20Branding%20%26%20Merchant%20Operations)
 - **Role:** Founder, UI/UX Designer & Full-Stack Web Developer
 - **Tech Stack:** Web Technologies, Digital Branding, BCA Merchant Integration
 - **Deskripsi:** Bisnis operasional kuliner yang dikembangkan secara mandiri, mencakup perancangan identitas brand, logo, menu, materi promosi visual, hingga integrasi sistem pembayaran digital maupun pembayaran non-tunai dengan sistem *self-service ordering*.
@@ -50,7 +50,7 @@
 - **Tech Stack:** Python, Web-based Backend, Biometric Extraction Algorithms
 - **Deskripsi:** Aplikasi absensi pegawai otomatis memanfaatkan fitur pendeteksi wajah (*facial detection*) dan ekstraksi biometrik untuk presensi yang lebih presisi dan efisien.
 
-### 🩺 [Health Pattern Detection Using AI](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/health-pattern-detection-using-ai)
+### 🩺 [Health Pattern Detection Using AI](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/Health%20pattern%20detection%20using%20AI)
 - **Role:** AI & Web Developer
 - **Tech Stack:** Python, Machine Learning / AI, Web Backend
 - **Deskripsi:** Sistem deteksi pola kesehatan berbasis *Artificial Intelligence* untuk menganalisis dan mendeteksi tren atau kecenderungan indikator kesehatan pengguna secara cerdas.
