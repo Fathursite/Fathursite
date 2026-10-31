@@ -55,7 +55,7 @@
 - **Tech Stack:** Python, Machine Learning / AI, Web Backend
 - **Deskripsi:** Sistem deteksi pola kesehatan berbasis *Artificial Intelligence* untuk menganalisis dan mendeteksi tren atau kecenderungan indikator kesehatan pengguna secara cerdas.
 
-### 🤖 [AI Agent with Gemini](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/ai-agent-with-gemini)
+### 🤖 [AI Agent with Gemini](https://github.com/Fathursite/MyFeaturedProject-Fathur/tree/main/AI%20AGENT%20with%20GEMINI%20AI)
 - **Role:** AI Developer & Integration Specialist
 - **Tech Stack:** Python, Google Gemini API, Prompt Engineering
 - **Deskripsi:** Pengembangan *AI Agent* interaktif berbasis Google Gemini API yang mampu memproses tugas-tugas cerdas, otomatisasi alur kerja, dan memberikan respons adaptif.
